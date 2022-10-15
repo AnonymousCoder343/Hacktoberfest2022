@@ -171,7 +171,7 @@ img = PhotoImage(file='login.png')
 Label(root,image=img,bg='white').place(x=50, y=50)
 frame = Frame(root,width=350,height=350,bg="grey")
 frame.place(x=480,y=70)
-heading = Label(frame,text='Sign in',fg='#57a1f8',bg='grey',font =('Microsoft YaHei UI Light',23, 'bold'))
+heading = Label(frame,text='Sign in',fg='#57a1f8',bg='grey',font =('Helvetica',23, 'bold'))
 heading.place(x=100,y=5)
 def on_enter(e):
     user.delete(0,'end')
@@ -179,7 +179,7 @@ def on_leave(e):
     name = user.get()
     if name=='':
         user.insert(0,'Username')
-user = Entry(frame,width = 25, fg ='black',border=0,bg="white",font =('Microsoft YaHei UI Light',11))
+user = Entry(frame,width = 25, fg ='black',border=0,bg="white",font =('Helvetica',11))
 user.place(x=30,y=80)
 user.insert(0,'Username')
 user.bind('<FocusIn>',on_enter)
