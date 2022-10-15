@@ -47,7 +47,7 @@ def signin():
         'Heartattack','Varicoseveins','Hypothyroidism','Hyperthyroidism','Hypoglycemia','Osteoarthristis',
         'Arthritis','(vertigo) Paroymsal  Positional Vertigo','Acne','Urinary tract infection','Psoriasis',
         'Impetigo',]
-
+# In l2 there will all the value firstly assigned to 0
         l2=[]
         for x in range(0,len(l1)):
             l2.append(0)
@@ -84,6 +84,7 @@ def signin():
                 messagebox.showinfo("OPPS!!", "ENTER  SYMPTOMS PLEASE")
             else :
                 NaiveBayes()
+                #after calling the message function naive bayes is called 
         def NaiveBayes():
             from sklearn.naive_bayes import MultinomialNB
             gnb = MultinomialNB()
@@ -203,3 +204,4 @@ label.place(x=75,y=270)
 sign_up  =Button(frame,width=6,text='Sign up',border=0,bg='white',cursor='hand2',fg='#57a1f8',command=signin)
 sign_up.place(x=215,y=270)
 root.mainloop()
+#main loop will end the whole tkinter flow
