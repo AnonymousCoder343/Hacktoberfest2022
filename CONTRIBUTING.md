@@ -1,34 +1,12 @@
-Contribution Rules📚:
-You are allowed to make pull requests that break the rules. We just merge it ;)
-Do NOT add any build steps e.g npm install (we want to keep this a simple static site)
-Do NOT remove other content.
-Styling/code can be pretty, ugly or stupid, big or small as long as it works
-Add your name to the contributorsList file
-Try to keep pull requests small to minimize merge conflicts
-Getting Started 🤩🤗:
-Fork this repo (button on top)
-Clone on your local machine
-git clone https://github.com/AnonymousCoder343/diesase_app.git
-Navigate to project directory.
-cd Hacktoberfest2022
-Create a new Branch
-git checkout -b my-new-branch
-Add your Name to contributors/contributorsList.js
-git add .
-Commit your changes.
-git commit -m "Relevant message"
-Then push
-git push origin my-new-branch
-Create a new pull request from your forked repository
+Contribution Guidelines
+Please ensure your pull request adheres to the following guidelines:
 
-Avoid Conflicts {Syncing your fork}
-An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.
-
-git remote add upstream https://github.com/AnonymousCoder343/diesase_app.git
-You can verify that the new remote has been added by typing
-
-git remote -v
-To pull any new changes from your parent repo simply run
-
-git merge upstream/master
-This will give you any eventual conflicts and allow you to easily solve them in your repo. It's a good idea to use it frequently in between your own commits to make sure that your repo is up to date with its parent.
+Star this repo to get latest updates.
+Start the Name with a capital.
+Give your file a proper extension according to language. Ex: .py, .java, .js, .html etc.
+Name your file related to your topic.
+Put your files in correct folder like .py in Python, .js in Javascript etc.
+Make sure you have entered your github - username in your file as a comment.
+Make sure you have entered your name in CONTRIBUTORS.md file as mentioned (It's your responsibility).
+You can also follow ME XD.
+Thank you for your suggestions!
