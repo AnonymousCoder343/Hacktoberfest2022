@@ -1,23 +1,60 @@
-# Disease-Prediction-using-machine-learning
-Disease Prediction is based on the supervised learning and naïve bayes algorithm which predicts the disease, Based on the symptoms inputted by the user, the project is uses tkinter for GUI application, numpy and pandas.
-Login Page of GUI:-
-![image](https://user-images.githubusercontent.com/77828414/192148003-8a3f6b24-89b2-472c-9fd8-319771750ceb.png)
+This project is perfect for your first pull request
+🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the challenge and earn a limited edition T-shirt.
 
-Disease Predictor Page:-
-![image](https://user-images.githubusercontent.com/77828414/192147948-3f0cc46f-20bd-4320-b903-00551c8ee7f7.png)
+📢 Register here for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🔥.
 
+Hacktober Badge Star Badge Contributions
+Pull Requests Badge GitHub contributors License Badge
 
-Source-1
-The dataset for this problem used with the main.py script is downloaded from here:
+Instructions-
+Fork this Repository using the button at the top on right corner.
+Clone your forked repository to your pc ( git clone "url from clone option.)
+Create a new branch for your modifications (ie. git branch new-user and check it out git checkout new-user or simply do git checkout -b new-user)
+Add your profile image in static/images/ ( use drag and drop option or upload by commands.)
+Add your profile data in content/participant/
+Add your files (git add -A), commit (git commit -m "added myself") and push (git push origin new-user)
+Create a pull request
+Star this repository
+How to make your first Pull Request
+Replace <YOUR-USERNAME> with your GitHub username in this guide.
 
-https://www.kaggle.com/kaushil268/disease-prediction-using-machine-learning
-This dataset has 133 total columns, 132 of them being symptoms experienced by patiend and last column in prognosis for the same.
+1. Add your profile picture to the folder
+Add a picture picture of your choice in static/images/. Accepted files are png and jpg, should be squared and minimum size 544x544 pixels. Ex.
 
-Source-2
-The dataset for this problem used with the Jupyter notebook is downloaded from here:
+static/images/<YOUR-USERNAME>.png
+2. Add your profile information
+Create a markdown file in your folder following the convention content/participant/<YOUR-USERNAME>.md. Ex.
 
-https://impact.dbmi.columbia.edu/~friedma/Projects/DiseaseSymptomKB/index.html
+content/participant/<YOUR-USERNAME>.md
+Copy the next template into your file, delete the boilerplate data and fill the information with yours.
 
+---
+name: YOURNAME
+institution/company: INSTITUTION_NAME
+github:USERNAME
+---
+OR
+3. Create / Upload Your Code / Algorithms
+Create/Upload your code in folder following the convention Add Code Here
 
-Base Paper:-
-https://ieeexplore.ieee.org/document/9154130
+Choose an extact lanaguage folder drop your code
+Below is an example to add file properly
+You can follow up any languages
+Add Code Here/PYTHON/<YOUR-FILERNAME>.py
+Add Code Here/C++/<YOUR-FILERNAME>.cpp
+You can follow any pathway a code or profile information
+
+4. Wait for Pull Request to merge
+5. Celebrate - you've done your first pull request!!
+'''
+Always make more then 4 pull requests.
+Lets say you have made only 4 pull request to different projects,
+but one project is excluded from hackoctoberfest event then your pull request will not be counted and 
+then you have remaining 3 valid pull requests if these projects is not excluded.
+If you fail to make 4 pull requests then you can't get swags or t-shirts.
+I will recommend you to make pull request to your own repo which is very very safest side for you..
+keep in mind that repo has hacktoberfest topic..
+'''
++ Follow Me : } Quick Approval of Pull Request
+'''
+To get approval of the pull request much quicker and faster (`Follow Me`)🚀
