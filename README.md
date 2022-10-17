@@ -1,4 +1,5 @@
 ### Hacktoberfest 2022 OPEN FIRST Pull Request - FREE T-SHIRT🎉
+![Hacktoberfest 2021](https://github.com/ossamamehmood/Hacktoberfest2022/raw/main/.github/logo.png)
 This project is perfect for your first pull request
 🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the challenge and earn a limited edition T-shirt.
 
@@ -6,7 +7,6 @@ This project is perfect for your first pull request
 
 Hacktober Badge Star Badge Contributions
 Pull Requests Badge GitHub contributors License Badge
-https://raw.githubusercontent.com/ossamamehmood/Hacktoberfest2022/main/.github/logo.png
 Instructions-
 Fork this Repository using the button at the top on right corner.
 Clone your forked repository to your pc ( git clone "url from clone option.)
