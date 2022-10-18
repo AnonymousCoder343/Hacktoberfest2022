@@ -1,5 +1,4 @@
 #importing modules
-from ast import Delete
 from curses.panel import bottom_panel
 from tkinter import *
 from tkinter import messagebox
