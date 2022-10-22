@@ -96,7 +96,7 @@ def signin():
             print(accuracy_score(y_test, y_pred, normalize=False))
             psymptoms = [Symptom1.get(),Symptom2.get(),Symptom3.get(),Symptom4.get(),Symptom5.get()]
             for k in range(0,len(l1)):
-                for z in psymptoms:
+               # for z in psymptoms:
                     if(z==l1[k]):
                         l2[k]=1
             inputtest = [l2]
